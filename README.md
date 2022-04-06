@@ -24,6 +24,6 @@
 ### Stats ⭐
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khiem27&show_icons=true" alt="khiem27_stats" /> 
-  <img height="180em" width="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem27&layout=compact&langs_count=5" alt="khiem27_stats" />
+  <img height="180px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiem27&layout=compact&langs_count=5" alt="khiem27_stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khiem27&" alt="khiem27_stats"/>
 </p>
